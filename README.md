@@ -13,6 +13,7 @@ Criar apenas um repositório para cada lista de exercícios e adicionar subpasta
 ## Estrutura de diretórios:
 
 lista-exercicios-01/
+
 ├── Exercicio_1-1/
 │   └── src/
 │       ├── Main.java
@@ -26,3 +27,4 @@ lista-exercicios-01/
 │       ├── Main.java
 │       └── Produto.java
 │       └── Estoque.java
+
