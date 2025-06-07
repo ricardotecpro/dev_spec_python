@@ -9,3 +9,15 @@ Criar apenas um repositório para cada lista de exercícios e adicionar subpasta
 - Exercicio_1-1
 - Exercicio_1-2
 - Exercicio_1-3
+
+
+lista-exercicios-01/
+├── Exercicio_1-1/
+│   └── src/
+│       └── Main.java
+├── Exercicio_1-2/
+│   └── src/
+│       └── Main.java
+├── Exercicio_1-3/
+│   └── src/
+│       └── Main.java
