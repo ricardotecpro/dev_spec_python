@@ -12,6 +12,8 @@ Criar apenas um repositório para cada lista de exercícios e adicionar subpasta
 - Exercicio_1-2
 - Exercicio_1-3
 
+#Sugestão como organizar seu repositório.
+
 ## Estrutura de diretórios:
 
 ```
