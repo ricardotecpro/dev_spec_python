@@ -1,7 +1,7 @@
 ### [ricardotecpro.github.io](https://ricardotecpro.github.io/)
 
-# FEMA
-## ADS Turma
+# EXEMPLO
+## ADS Turma 1|2
 ### Nome do aluno
 
 Lista de Exercícios 01
