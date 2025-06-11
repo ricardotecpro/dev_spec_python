@@ -8,6 +8,10 @@ Lista de Exercícios 01
 
 Criar apenas um repositório para cada lista de exercícios e adicionar subpastas para cada exercício seguindo a estrutura desse exemplo.
 
+- [ ] Tarefa 1
+- [x] Tarefa 2 (concluída)
+- [ ] Tarefa 3
+
 - Exercicio_1-1
 - Exercicio_1-2
 - Exercicio_1-3
