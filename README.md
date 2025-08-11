@@ -150,3 +150,7 @@ Isso abrirá uma nova aba em seu navegador com a interface do JupyterLab.
   * Você também pode criar células de texto usando a formatação **Markdown** para documentar seu trabalho.
 
 É uma ferramenta poderosa para testar ideias e apresentar análises de forma clara e organizada. Boa exploração\! 🎉
+
+---
+
+### [ricardotecpro.github.io](https://ricardotecpro.github.io/)
