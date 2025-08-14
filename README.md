@@ -1,4 +1,4 @@
-### **Trilha de Aprendizagem: Do Básico ao Avançado com Python 🐍**
+# Python: Do Básico ao Avançado 🐍
 
 Esta trilha foi desenhada para guiar você desde a instalação do Python até as boas práticas de desenvolvimento usadas por profissionais, cobrindo o gerenciamento de ambientes, dependências e o uso de ferramentas interativas.
 
