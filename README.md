@@ -152,3 +152,4 @@ saudar(nome_do_usuario)
   - **Comunidade Gigante e Ativa**: Há uma abundância de tutoriais, fóruns e conferências. Quase qualquer dúvida que você tiver já foi respondida online.
   - **Alta Demanda no Mercado**: Profissionais de Python são altamente requisitados, especialmente em campos de rápido crescimento como Data Science, Machine Learning e desenvolvimento backend.
   - **Ecossistema de Bibliotecas Imbatível**: O PyPI oferece uma solução pronta para quase qualquer problema, acelerando drasticamente o desenvolvimento.
+
